@@ -25,6 +25,7 @@
   },
   "dependencies": {
     "async": ">=0.2.9",
+    "tmp-promise": "^2.0.2",
     "which": "^1.1.1"
   },
   "engines": {
