@@ -13,12 +13,18 @@ This library abstracts the complex command-line usage of ffmpeg into a fluent, e
 Via npm:
 
 ```sh
-$ npm install fluent-ffmpeg
+$ npm install --registry https://npm.pkg.github.com/ @metrica-sports/fluent-ffmpeg 
+```
+
+Via yarn:
+
+```sh
+$ yarn add --registry https://npm.pkg.github.com/ @metrica-sports/fluent-ffmpeg
 ```
 
 Or as a submodule:
 ```sh
-$ git submodule add git://github.com/schaermu/node-fluent-ffmpeg.git vendor/fluent-ffmpeg
+$ git submodule add git://github.com/metrica-sports/node-fluent-ffmpeg.git
 ```
 
 
