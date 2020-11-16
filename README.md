@@ -13,7 +13,7 @@ This library abstracts the complex command-line usage of ffmpeg into a fluent, e
 Via npm:
 
 ```sh
-$ npm install --registry https://npm.pkg.github.com/ @metrica-sports/fluent-ffmpeg 
+$ npm install --registry https://npm.pkg.github.com/ @metrica-sports/fluent-ffmpeg
 ```
 
 Via yarn:
